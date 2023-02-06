@@ -1,4 +1,3 @@
-const { CallMerge } = require("@material-ui/icons");
 const asyncHandler = require("express-async-handler");
 const Product = require("../models/productModel");
 const { fileSizeFormatter } = require("../Utilis/fileUpload");
